@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: dbf67bd1dc17a4a4f85a1dd1f40a7833
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mainVideoPlayer: {instanceID: 0}
+  - miniVideoPlayer: {instanceID: 0}
+  - videoClip1: {instanceID: 0}
+  - videoClip2: {instanceID: 0}
+  - videoClip3: {instanceID: 0}
+  - miniVideoPlayerPrefab: {fileID: 5143871975530687272, guid: d42dcfda90809c846a6ddb4c19eca53b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
